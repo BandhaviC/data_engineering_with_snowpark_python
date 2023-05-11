@@ -1,10 +1,3 @@
-/*-----------------------------------------------------------------------------
-Hands-On Lab: Data Engineering with Snowpark
-Script:       03_load_weather.sql
-Author:       Jeremiah Hansen
-Last Updated: 1/9/2023
------------------------------------------------------------------------------*/
-
 -- SNOWFLAKE ADVANTAGE: Data sharing/marketplace (instead of ETL)
 -- SNOWFLAKE ADVANTAGE: Visual Studio Code Snowflake native extension (PrPr, Git integration)
 
